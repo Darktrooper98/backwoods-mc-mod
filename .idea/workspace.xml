@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3c5154f-ba6c-41be-8694-d16fff19859f" name="Default Changelist" comment="commit forge files" />
+    <list id="912269e0-e584-49cf-9c95-730e2d6a6ee8" name="Revert &quot;commit forge files&quot;" comment="Revert &quot;commit forge files&quot;&#10;&#10;This reverts commit 5e84fad0">
+      <change beforePath="$PROJECT_DIR$/forge-1.12.2-14.23.5.2859-mdk/LICENSE-Paulscode SoundSystem CodecIBXM.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.12.2-14.23.5.2859-mdk/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/forge-1.12.2-14.23.5.2859-mdk">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2YBcVf6SuFGCn6t3xNbSPDobRt3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/forge-1.12.2-14.23.5.2859-mdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="genIntellijRuns" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/forge-1.12.2-14.23.5.2859-mdk" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="genIntellijRuns" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3c5154f-ba6c-41be-8694-d16fff19859f" name="Default Changelist" comment="" />
+      <created>1700002438268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700002438268</updated>
+      <workItem from="1700002445731" duration="2265000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit forge files">
+      <created>1700003291679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700003291679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit forge files" />
+    <MESSAGE value="Revert &quot;commit forge files&quot;&#10;&#10;This reverts commit 5e84fad0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;commit forge files&quot;&#10;&#10;This reverts commit 5e84fad0" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="166" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1700003019055">
+      <screen x="0" y="25" width="1403" height="875" />
+    </state>
+    <state x="166" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1403.875@0.25.1403.875" timestamp="1700003019055" />
+    <state x="184" y="32" key="CommitChangelistDialog2" timestamp="1700004211175">
+      <screen x="0" y="25" width="1403" height="875" />
+    </state>
+    <state x="184" y="32" key="CommitChangelistDialog2/0.25.1403.875@0.25.1403.875" timestamp="1700004211175" />
+    <state width="680" height="228" key="GridCell.Tab.0.bottom" timestamp="1700004429912">
+      <screen x="0" y="25" width="1403" height="875" />
+    </state>
+    <state width="680" height="228" key="GridCell.Tab.0.bottom/0.25.1403.875@0.25.1403.875" timestamp="1700004429912" />
+    <state width="680" height="228" key="GridCell.Tab.0.center" timestamp="1700004429911">
+      <screen x="0" y="25" width="1403" height="875" />
+    </state>
+    <state width="680" height="228" key="GridCell.Tab.0.center/0.25.1403.875@0.25.1403.875" timestamp="1700004429911" />
+    <state width="680" height="228" key="GridCell.Tab.0.left" timestamp="1700004429911">
+      <screen x="0" y="25" width="1403" height="875" />
+    </state>
+    <state width="680" height="228" key="GridCell.Tab.0.left/0.25.1403.875@0.25.1403.875" timestamp="1700004429911" />
+    <state width="680" height="228" key="GridCell.Tab.0.right" timestamp="1700004429912">
+      <screen x="0" y="25" width="1403" height="875" />
+    </state>
+    <state width="680" height="228" key="GridCell.Tab.0.right/0.25.1403.875@0.25.1403.875" timestamp="1700004429912" />
+  </component>
+</project>
