@@ -65,6 +65,9 @@
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/forge-1.12.2-14.23.5.2859-mdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="genIntellijRuns" type="GradleRunConfiguration" factoryName="Gradle">
@@ -97,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700002438268</updated>
-      <workItem from="1700002445731" duration="2265000" />
+      <workItem from="1700002445731" duration="2663000" />
     </task>
     <task id="LOCAL-00001" summary="commit forge files">
       <created>1700003291679</created>
@@ -137,21 +140,25 @@
       <screen x="0" y="25" width="1403" height="875" />
     </state>
     <state x="184" y="32" key="CommitChangelistDialog2/0.25.1403.875@0.25.1403.875" timestamp="1700004211175" />
-    <state width="680" height="228" key="GridCell.Tab.0.bottom" timestamp="1700004429912">
+    <state width="680" height="228" key="GridCell.Tab.0.bottom" timestamp="1700005215943">
       <screen x="0" y="25" width="1403" height="875" />
     </state>
-    <state width="680" height="228" key="GridCell.Tab.0.bottom/0.25.1403.875@0.25.1403.875" timestamp="1700004429912" />
-    <state width="680" height="228" key="GridCell.Tab.0.center" timestamp="1700004429911">
+    <state width="680" height="228" key="GridCell.Tab.0.bottom/0.25.1403.875@0.25.1403.875" timestamp="1700005215943" />
+    <state width="680" height="228" key="GridCell.Tab.0.center" timestamp="1700005215943">
       <screen x="0" y="25" width="1403" height="875" />
     </state>
-    <state width="680" height="228" key="GridCell.Tab.0.center/0.25.1403.875@0.25.1403.875" timestamp="1700004429911" />
-    <state width="680" height="228" key="GridCell.Tab.0.left" timestamp="1700004429911">
+    <state width="680" height="228" key="GridCell.Tab.0.center/0.25.1403.875@0.25.1403.875" timestamp="1700005215943" />
+    <state width="680" height="228" key="GridCell.Tab.0.left" timestamp="1700005215943">
       <screen x="0" y="25" width="1403" height="875" />
     </state>
-    <state width="680" height="228" key="GridCell.Tab.0.left/0.25.1403.875@0.25.1403.875" timestamp="1700004429911" />
-    <state width="680" height="228" key="GridCell.Tab.0.right" timestamp="1700004429912">
+    <state width="680" height="228" key="GridCell.Tab.0.left/0.25.1403.875@0.25.1403.875" timestamp="1700005215943" />
+    <state width="680" height="228" key="GridCell.Tab.0.right" timestamp="1700005215943">
       <screen x="0" y="25" width="1403" height="875" />
     </state>
-    <state width="680" height="228" key="GridCell.Tab.0.right/0.25.1403.875@0.25.1403.875" timestamp="1700004429912" />
+    <state width="680" height="228" key="GridCell.Tab.0.right/0.25.1403.875@0.25.1403.875" timestamp="1700005215943" />
+    <state x="189" y="41" key="SettingsEditor" timestamp="1700005084910">
+      <screen x="0" y="25" width="1403" height="875" />
+    </state>
+    <state x="189" y="41" key="SettingsEditor/0.25.1403.875@0.25.1403.875" timestamp="1700005084910" />
   </component>
 </project>
